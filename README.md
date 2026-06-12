@@ -35,8 +35,7 @@ status: 絶賛アニメ視聴中 (watching anime rn)
 ### `> hobbies`
 
 ```yaml
-watching:   [ anime, Sci-fi, Detective fiction
-, Crime fiction ]
+watching:   [ anime, sci-fi, crime fiction ]
 reading:    [ manga ]
 playing:    [ games with good lore, FPS ]
 doing:      [ touching grass (average) ]
