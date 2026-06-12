@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ6azZubGd0djl6NGs4amE5ZnRsN3R2c2F5NnV5ZjZ4N3N2dTQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" width="450px"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ6azZubGd0djl6NGs4amE5ZnRsN3R2c2F5NnV5ZjZ4N3N2dTQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" width="400px"/>
 
 ### `> whoami`
 
