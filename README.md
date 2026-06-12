@@ -132,7 +132,7 @@ doing:      [ touching grass (average) ]
 <a href="mailto:ren@animex.net.tr"><img src="https://img.shields.io/badge/Mail-ren%40animex.net.tr-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>&nbsp;
 <a href="https://buymeacoffee.com/0renn"><img src="https://img.shields.io/badge/BuyMeACoffee-0renn-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117"/></a>
 <div align="center">
-  <img height="150" src="https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/4b/04/a68zYmr8.gif"  />
+  <img height="150" style="border-radius:20px; display:block;" src="https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/4b/04/a68zYmr8.gif" />
 </div>
 <img src="https://komarev.com/ghpvc/?username=0-renn&label=Profile%20Views&color=7E37F9&style=for-the-badge" />&nbsp;
 </div>
